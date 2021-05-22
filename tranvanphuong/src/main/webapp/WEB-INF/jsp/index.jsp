@@ -10,7 +10,7 @@
 <body>
 <h1>Index</h1>
 
-<a href="/new">but</a>
+<a href="/new">create</a>
 <div class="w3-container">
     <table class="w3-table w3-striped">
         <tr>
